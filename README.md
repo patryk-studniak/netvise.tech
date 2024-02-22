@@ -30,7 +30,7 @@ Need help with your software strategy or architecture? Our team of experts is he
 
 ## Contact Us
 
-Ready to get started? [Contact us](mailto:info@netvise.tech) today to learn more about how Netvise.tech can help you take your project to the next level.
+Ready to get started? [Contact us](mailto:netvise.software@gmail.com) today to learn more about how Netvise.tech can help you take your project to the next level.
 
 Follow us on [Twitter](https://twitter.com/netvise_tech) for the latest updates and news.
 
